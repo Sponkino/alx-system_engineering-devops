@@ -1,3 +1,2 @@
-#!/bin/bash
-chmod u+x /root/alx-system_engineering-devops/0x00-shell_basics
-s
+#!/bin/
+ls
